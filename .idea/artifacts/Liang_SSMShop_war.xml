@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Liang_SSMShop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SSMShop.war">
+      <element id="artifact" artifact-name="Liang_SSMShop:war exploded" />
+    </root>
+  </artifact>
+</component>
